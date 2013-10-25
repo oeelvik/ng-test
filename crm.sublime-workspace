@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"desc",
+				"DESCRIBE "
+			],
+			[
+				"raw",
+				"rawrecord"
+			],
+			[
+				"el",
+				"elasticsearch"
+			],
+			[
+				"dse",
+				"DESCRIBE "
+			],
+			[
+				"des",
+				"DESCRIBE "
+			],
+			[
+				"fl",
+				"FLATTEN"
+			],
+			[
+				"sour",
+				"sourceMetadataType"
+			],
+			[
+				"direc",
+				"directivelong	Angular.js"
+			],
+			[
+				"dire",
+				"directivelong	Angular.js"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/maven.sublime-build",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"gitdic",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"gitdi",
+				"Git: Diff Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"gitanno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"sycss",
+				"Set Syntax: CSS"
+			],
+			[
+				"snippeexe",
+				"Snippet: exec"
+			],
+			[
+				"snipppac",
+				"Snippet: package"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"toggl",
+				"View: Toggle Minimap"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"yntax mar",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/olehadoop-pig-1.0-SNAPSHOT-dist/olehadoop-pig-1.0-SNAPSHOT/scripts/changestatus.pig",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/olehadoop-pig-1.0-SNAPSHOT-dist/olehadoop-pig-1.0-SNAPSHOT/scripts/fields.pig",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/olehadoop-pig-1.0-SNAPSHOT-dist/olehadoop-pig-1.0-SNAPSHOT/scripts/reindex.pig",
+		"/home/oysteine/workspace/olehadoop/olehadoop-pig/src/main/java/no/nb/olehadoop/pig/udf/mods/ToMods.java",
+		"/home/oysteine/workspace/olehadoop/olehadoop-pig/src/main/scripts/changestatus.pig",
+		"/home/oysteine/workspace/olehadoop/pom.xml",
+		"/home/oysteine/workspace/olehadoop/olehadoop-pig/src/main/scripts/raw2mods.pig",
+		"/home/oysteine/workspace/olehadoop/olehadoop-pig/src/main/scripts/reindex.pig",
+		"/home/oysteine/workspace/olehadoop/olehadoop-pig/src/main/java/no/nb/olehadoop/pig/scripts/raw2mods.pig",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/puppet/modules/elasticsearch/manifests/init.pp",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/puppet/hmaster/manifests/site.pp",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/examples/pig/escas/escas.pig",
+		"/home/oysteine/workspace/cremanag-gui/src/common/itemlist/itemlist.js",
+		"/home/oysteine/workspace/cremanag-gui/src/less/main.less",
+		"/home/oysteine/workspace/cremanag-gui/src/app/home/home.tpl.html",
+		"/home/oysteine/workspace/cremanag-gui/vendor/bootstrap/Makefile",
+		"/home/oysteine/.config/sublime-text-3/Packages/User/Lorem ipsum.sublime-snippet",
+		"/home/oysteine/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/oysteine/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/test.js",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/Vagrantfile",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/puppet/modules/hadoop/manifests/init.pp",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/puppet/modules/hadoop/manifests/test.php",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/marcxchange_normarc2mods.xsl",
+		"/home/oysteine/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/oysteine/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/oysteine/workspace/vagrant-puppet-hadoop-datastax/README.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" - ",
+			"COLUMNFAMILY",
+			"STATUS",
+			"status",
+			"STATUS",
+			"st",
+			"source",
+			"sour",
+			"	",
+			"\n	",
+			"		",
+			"	",
+			"  ",
+			"	  ",
+			"tmp",
+			"class",
+			"xmlns",
+			"xsl",
+			"marcRecord"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"project": "crm.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"olepigsrmaja",
+				"olehadoop-pig/src/main/java/no/nb/olehadoop/pig/udf/mods/ToMods.java"
+			],
+			[
+				"pom",
+				"pom.xml"
+			],
+			[
+				"raw",
+				"olehadoop-pig/src/main/scripts/raw2mods.pig"
+			],
+			[
+				"scripts",
+				"olehadoop-pig/src/main/scripts/reindex.pig"
+			],
+			[
+				"chan",
+				"olehadoop-pig/src/main/scripts/changestatus.pig"
+			],
+			[
+				"scrip",
+				"olehadoop-pig/src/main/scripts/raw2mods.pig"
+			],
+			[
+				"mods",
+				"olehadoop-pig/src/main/java/no/nb/olehadoop/pig/udf/mods/ToMods.java"
+			],
+			[
+				"pigsc",
+				"olehadoop-pig/src/main/java/no/nb/olehadoop/pig/scripts/raw2mods.pig"
+			],
+			[
+				"plu",
+				"puppet/modules/elasticsearch/manifests/plugin.pp"
+			],
+			[
+				"elastic",
+				"puppet/modules/elasticsearch/manifests/init.pp"
+			],
+			[
+				"si",
+				"puppet/hmaster/manifests/site.pp"
+			],
+			[
+				"site",
+				"puppet/hmaster/manifests/site.pp"
+			],
+			[
+				"hadpm",
+				"puppet/modules/hadoop/manifests/pdm.pp"
+			],
+			[
+				"elaplu",
+				"class elasticsearch::plugin ($plugin = $title){"
+			],
+			[
+				"commo",
+				"puppet/modules/common/manifests/sshlocal.pp"
+			],
+			[
+				"orini",
+				"puppet/modules/oracle-java/manifests/init.pp"
+			],
+			[
+				"pig",
+				"puppet/modules/hadoop/manifests/pig.pp"
+			],
+			[
+				"hadooini",
+				"puppet/modules/hadoop/manifests/init.pp"
+			],
+			[
+				"haddo",
+				"puppet/modules/hadoop/manifests/pdm.pp"
+			],
+			[
+				"cassanhad",
+				"puppet/modules/cassandra/manifests/hadoop.pp"
+			],
+			[
+				"cassaninit",
+				"puppet/modules/cassandra/manifests/init.pp"
+			],
+			[
+				"elasts/ini",
+				"puppet/modules/elasticsearch/manifests/init.pp"
+			],
+			[
+				"cassa",
+				"puppet/modules/cassandra/manifests/hadoop.pp"
+			],
+			[
+				"rein",
+				"examples/pig/reindex.pig"
+			],
+			[
+				"escas",
+				"examples/pig/escas/escas.pig"
+			],
+			[
+				"homeh",
+				"src/app/home/home.tpl.html"
+			],
+			[
+				"male",
+				"src/less/main.less"
+			],
+			[
+				"mail",
+				"vendor/bootstrap/Makefile"
+			],
+			[
+				"iteml",
+				"src/common/itemlist/itemlist.js"
+			],
+			[
+				"haini",
+				"puppet/modules/hadoop/manifests/init.pp"
+			],
+			[
+				"t",
+				"test.js"
+			],
+			[
+				"vag",
+				"Vagrantfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspace/vagrant-puppet-hadoop-datastax/hadoop-vm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
