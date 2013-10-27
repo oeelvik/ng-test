@@ -17,16 +17,37 @@ div.crm-finder {
 
 		&.history {
 				background-color: #0c0;
+				
+				overflow: hidden;
+				width: 50px;
 			ul {
+				display: inline-block;
+				white-space: nowrap;
 				list-style: none;
 				padding: 0;
 				margin: 0;
 				background-color: #c00;
-
+				
 
 				.rotateTranslateOrigin(270deg, -100%, 0, left, top, 0);
 				
+				&:after {
+					content: "";
+					float: left;
+					margin-top: 100%;
+
+				}
+				/*&:before{
+					content: "";
+					padding: 50% 0;
+					display: block;
+					background: red;
+					position: relative;
+					top: 20px;
+				}*/
+				// content:''; padding:50% 0; display:block;  background:red; position:relative; top:20px
 				li {
+					height: 25px;
 					background-color: #00c;
 				}
 			}
